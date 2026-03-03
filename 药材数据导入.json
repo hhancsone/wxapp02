@@ -1,0 +1,3654 @@
+[
+  {
+    "name": "龙骨",
+    "latin_name": "Os Draconis",
+    "medicinal_part": "骨骼化石",
+    "taste": "甘、涩，平",
+    "meridian": "心、肝、肾经",
+    "efficacy": "镇惊安神，平肝潜阳，收敛固涩",
+    "indication": "心神不宁，心悸失眠，惊痫癫狂，肝阳眩晕，自汗盗汗，遗精滑精，崩漏带下，久泻久痢，湿疮痒疹，疮疡久溃不敛",
+    "category": "平肝熄风药",
+    "views": 0,
+    "images": [
+      {
+        "name": "龙骨.jpg",
+        "extname": "jpg",
+        "url": "/herbs/龙骨.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\龙骨.jpg",
+        "size": 17311,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "黄芪",
+    "latin_name": "Astragali Radix",
+    "medicinal_part": "根",
+    "taste": "甘，微温",
+    "meridian": "脾、肺经",
+    "efficacy": "补气升阳，固表止汗，利水消肿，生津养血，行滞通痹，托毒排脓，敛疮生肌",
+    "indication": "气虚乏力，食少便溏，中气下陷，久泻脱肛，便血崩漏，表虚自汗，气虚水肿，内热消渴，血虚萎黄，半身不遂，痹痛麻木，痈疽难溃，久溃不敛",
+    "category": "补气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "黄芪.jpg",
+        "extname": "jpg",
+        "url": "/herbs/黄芪.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\黄芪.jpg",
+        "size": 95846,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "黄芩",
+    "latin_name": "Scutellariae Radix",
+    "medicinal_part": "根",
+    "taste": "苦，寒",
+    "meridian": "肺、胆、脾、大肠、小肠经",
+    "efficacy": "清热燥湿，泻火解毒，止血，安胎",
+    "indication": "湿温、暑湿，胸闷呕恶，湿热痞满，泻痢，黄疸，肺热咳嗽，高热烦渴，血热吐衄，痈肿疮毒，胎动不安",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "黄芩.jpg",
+        "extname": "jpg",
+        "url": "/herbs/黄芩.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\黄芩.jpg",
+        "size": 20762,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "黄精",
+    "latin_name": "Polygonati Rhizoma",
+    "medicinal_part": "根茎",
+    "taste": "甘，平",
+    "meridian": "脾、肺、肾经",
+    "efficacy": "补气养阴，健脾，润肺，益肾",
+    "indication": "脾胃气虚，体倦乏力，胃阴不足，口干食少，肺虚燥咳，劳嗽咯血，精血不足，腰膝酸软，须发早白，内热消渴",
+    "category": "补气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "黄精.jpg",
+        "extname": "jpg",
+        "url": "/herbs/黄精.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\黄精.jpg",
+        "size": 20857,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "黄柏",
+    "latin_name": "Phellodendri Chinensis Cortex",
+    "medicinal_part": "树皮",
+    "taste": "苦，寒",
+    "meridian": "肾、膀胱经",
+    "efficacy": "清热燥湿，泻火除蒸，解毒疗疮",
+    "indication": "湿热泻痢，黄疸尿赤，带下阴痒，热淋涩痛，脚气痿躄，骨蒸劳热，盗汗，遗精，疮疡肿毒，湿疹湿疮",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "黄柏.jpg",
+        "extname": "jpg",
+        "url": "/herbs/黄柏.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\黄柏.jpg",
+        "size": 14929,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "麦芽",
+    "latin_name": "Hordei Fructus Germinatus",
+    "medicinal_part": "成熟果实发芽干燥品",
+    "taste": "甘，平",
+    "meridian": "脾、胃经",
+    "efficacy": "行气消食，健脾开胃，回乳消胀",
+    "indication": "食积不消，脘腹胀痛，脾虚食少，乳汁郁积，乳房胀痛，妇女断乳，肝郁胁痛，肝胃气痛",
+    "category": "消食药",
+    "views": 0,
+    "images": [
+      {
+        "name": "麦芽.jpg",
+        "extname": "jpg",
+        "url": "/herbs/麦芽.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\麦芽.jpg",
+        "size": 25169,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "麦冬",
+    "latin_name": "Ophiopogonis Radix",
+    "medicinal_part": "块根",
+    "taste": "甘、微苦，微寒",
+    "meridian": "心、肺、胃经",
+    "efficacy": "养阴生津，润肺清心",
+    "indication": "肺燥干咳，阴虚痨嗽，喉痹咽痛，津伤口渴，内热消渴，心烦失眠，肠燥便秘",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "麦冬.jpg",
+        "extname": "jpg",
+        "url": "/herbs/麦冬.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\麦冬.jpg",
+        "size": 25894,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "鸡血藤",
+    "latin_name": "Spatholobi Caulis",
+    "medicinal_part": "藤茎",
+    "taste": "苦、甘，温",
+    "meridian": "肝、肾经",
+    "efficacy": "活血补血，调经止痛，舒筋活络",
+    "indication": "月经不调，痛经，经闭，风湿痹痛，麻木瘫痪，血虚萎黄",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "鸡血藤.jpg",
+        "extname": "jpg",
+        "url": "/herbs/鸡血藤.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\鸡血藤.jpg",
+        "size": 25577,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "鸡内金",
+    "latin_name": "Gallus Gallus Domesticus Endothelium Corneum",
+    "medicinal_part": "沙囊内壁",
+    "taste": "甘，平",
+    "meridian": "脾、胃、小肠、膀胱经",
+    "efficacy": "健胃消食，涩精止遗，通淋化石",
+    "indication": "食积不消，呕吐泻痢，小儿疳积，遗尿，遗精，石淋涩痛，胆胀胁痛",
+    "category": "消食药",
+    "views": 0,
+    "images": [
+      {
+        "name": "鸡内金.jpg",
+        "extname": "jpg",
+        "url": "/herbs/鸡内金.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\鸡内金.jpg",
+        "size": 19655,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "鳖甲",
+    "latin_name": "Trionycis Carapax et Plastrum",
+    "medicinal_part": "背甲",
+    "taste": "咸，微寒",
+    "meridian": "肝、肾经",
+    "efficacy": "滋阴潜阳，退热除蒸，软坚散结",
+    "indication": "阴虚发热，骨蒸劳热，阴虚阳亢，头晕目眩，虚风内动，经闭，癥瘕，久疟疟母",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "鳖甲.jpg",
+        "extname": "jpg",
+        "url": "/herbs/鳖甲.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\鳖甲.jpg",
+        "size": 23988,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "香附",
+    "latin_name": "Cyperi Rhizoma",
+    "medicinal_part": "根茎",
+    "taste": "辛、微苦、微甘，平",
+    "meridian": "肝、脾、三焦经",
+    "efficacy": "疏肝解郁，理气宽中，调经止痛",
+    "indication": "肝郁气滞，胸胁胀痛，疝气疼痛，乳房胀痛，脾胃气滞，脘腹痞闷，胀满疼痛，月经不调，经闭痛经",
+    "category": "理气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "香附.jpg",
+        "extname": "jpg",
+        "url": "/herbs/香附.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\香附.jpg",
+        "size": 18554,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "首乌藤片",
+    "latin_name": "Polygoni Multiflori Caulis",
+    "medicinal_part": "藤茎（片）",
+    "taste": "甘，平",
+    "meridian": "心、肝经",
+    "efficacy": "养血安神，祛风通络",
+    "indication": "失眠多梦，血虚身痛，风湿痹痛，皮肤瘙痒",
+    "category": "开窍药",
+    "views": 0,
+    "images": [
+      {
+        "name": "首乌藤片.jpg",
+        "extname": "jpg",
+        "url": "/herbs/首乌藤片.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\首乌藤片.jpg",
+        "size": 26986,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "首乌藤块",
+    "latin_name": "Polygoni Multiflori Caulis",
+    "medicinal_part": "藤茎（块）",
+    "taste": "甘，平",
+    "meridian": "心、肝经",
+    "efficacy": "养血安神，祛风通络",
+    "indication": "失眠多梦，血虚身痛，风湿痹痛，皮肤瘙痒",
+    "category": "开窍药",
+    "views": 0,
+    "images": [
+      {
+        "name": "首乌藤块.jpg",
+        "extname": "jpg",
+        "url": "/herbs/首乌藤块.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\首乌藤块.jpg",
+        "size": 21685,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "青蒿",
+    "latin_name": "Artemisiae Annuae Herba",
+    "medicinal_part": "地上部分",
+    "taste": "苦、辛，寒",
+    "meridian": "肝、胆经",
+    "efficacy": "清虚热，除骨蒸，解暑热，截疟，退黄",
+    "indication": "温邪伤阴，夜热早凉，阴虚发热，骨蒸劳热，暑邪发热，疟疾寒热，湿热黄疸",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "青蒿.jpg",
+        "extname": "jpg",
+        "url": "/herbs/青蒿.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\青蒿.jpg",
+        "size": 15131,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "陈皮",
+    "latin_name": "Citri Reticulatae Pericarpium",
+    "medicinal_part": "成熟果皮",
+    "taste": "苦、辛，温",
+    "meridian": "肺、脾经",
+    "efficacy": "理气健脾，燥湿化痰",
+    "indication": "脘腹胀满，食少吐泻，咳嗽痰多",
+    "category": "理气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "陈皮.jpg",
+        "extname": "jpg",
+        "url": "/herbs/陈皮.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\陈皮.jpg",
+        "size": 15916,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "附子",
+    "latin_name": "Aconiti Radix Lateralis Praeparata",
+    "medicinal_part": "子根加工品",
+    "taste": "辛、甘，大热；有毒",
+    "meridian": "心、肾、脾经",
+    "efficacy": "回阳救逆，补火助阳，散寒止痛",
+    "indication": "亡阳虚脱，肢冷脉微，心阳不足，胸痹心痛，虚寒吐泻，脘腹冷痛，肾阳虚衰，阳痿宫冷，阴寒水肿，阳虚外感，寒湿痹痛",
+    "category": "温里药",
+    "views": 0,
+    "images": [
+      {
+        "name": "附子.jpg",
+        "extname": "jpg",
+        "url": "/herbs/附子.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\附子.jpg",
+        "size": 14630,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "阿胶",
+    "latin_name": "Asini Corii Colla",
+    "medicinal_part": "驴皮熬制胶块",
+    "taste": "甘，平",
+    "meridian": "肺、肝、肾经",
+    "efficacy": "补血滋阴，润燥，止血",
+    "indication": "血虚萎黄，眩晕心悸，肌痿无力，心烦不眠，虚风内动，肺燥咳嗽，劳嗽咯血，吐血尿血，便血崩漏，妊娠胎漏",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "阿胶.jpg",
+        "extname": "jpg",
+        "url": "/herbs/阿胶.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\阿胶.jpg",
+        "size": 9068,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "防风",
+    "latin_name": "Saposhnikoviae Radix",
+    "medicinal_part": "根",
+    "taste": "辛、甘，微温",
+    "meridian": "膀胱、肝、脾经",
+    "efficacy": "祛风解表，胜湿止痛，止痉",
+    "indication": "感冒头痛，风湿痹痛，风疹瘙痒，破伤风",
+    "category": "解表药",
+    "views": 0,
+    "images": [
+      {
+        "name": "防风.jpg",
+        "extname": "jpg",
+        "url": "/herbs/防风.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\防风.jpg",
+        "size": 27409,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "钩藤",
+    "latin_name": "Uncariae Ramulus Cum Uncis",
+    "medicinal_part": "带钩茎枝",
+    "taste": "甘，凉",
+    "meridian": "肝、心包经",
+    "efficacy": "息风定惊，清热平肝",
+    "indication": "肝风内动，惊痫抽搐，高热惊厥，头痛眩晕，感冒夹惊，小儿惊啼，妊娠子痫",
+    "category": "安神药",
+    "views": 0,
+    "images": [
+      {
+        "name": "钩藤.jpg",
+        "extname": "jpg",
+        "url": "/herbs/钩藤.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\钩藤.jpg",
+        "size": 18617,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "金银花",
+    "latin_name": "Lonicerae Japonicae Flos",
+    "medicinal_part": "花蕾或带初开的花",
+    "taste": "甘，寒",
+    "meridian": "肺、心、胃经",
+    "efficacy": "清热解毒，疏散风热",
+    "indication": "痈肿疔疮，喉痹，丹毒，热毒血痢，风热感冒，温病发热",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "金银花.jpg",
+        "extname": "jpg",
+        "url": "/herbs/金银花.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\金银花.jpg",
+        "size": 118516,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "金钱草",
+    "latin_name": "Lysimachiae Herba",
+    "medicinal_part": "全草",
+    "taste": "甘、咸，微寒",
+    "meridian": "肝、胆、肾、膀胱经",
+    "efficacy": "利湿退黄，利尿通淋，解毒消肿",
+    "indication": "湿热黄疸，胆胀胁痛，石淋，热淋，小便涩痛，痈肿疔疮，蛇虫咬伤",
+    "category": "利水渗湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "金钱草.jpg",
+        "extname": "jpg",
+        "url": "/herbs/金钱草.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\金钱草.jpg",
+        "size": 22779,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "野菊花",
+    "latin_name": "Chrysanthemi Indici Flos",
+    "medicinal_part": "头状花序",
+    "taste": "苦、辛，微寒",
+    "meridian": "肝、心经",
+    "efficacy": "清热解毒，泻火平肝",
+    "indication": "疔疮痈肿，目赤肿痛，头痛眩晕",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "野菊花.jpg",
+        "extname": "jpg",
+        "url": "/herbs/野菊花.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\野菊花.jpg",
+        "size": 30292,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "酸枣仁",
+    "latin_name": "Ziziphi Spinosae Semen",
+    "medicinal_part": "成熟种子",
+    "taste": "甘、酸，平",
+    "meridian": "肝、胆、心经",
+    "efficacy": "养心补肝，宁心安神，敛汗，生津",
+    "indication": "虚烦不眠，惊悸多梦，体虚多汗，津伤口渴",
+    "category": "开窍药",
+    "views": 0,
+    "images": [
+      {
+        "name": "酸枣仁.jpg",
+        "extname": "jpg",
+        "url": "/herbs/酸枣仁.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\酸枣仁.jpg",
+        "size": 21967,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "郁金",
+    "latin_name": "Curcumae Radix",
+    "medicinal_part": "块根",
+    "taste": "辛、苦，寒",
+    "meridian": "肝、心、肺经",
+    "efficacy": "活血止痛，行气解郁，清心凉血，利胆退黄",
+    "indication": "胸胁刺痛，胸痹心痛，经闭痛经，乳房胀痛，热病神昏，癫痫发狂，血热吐衄，黄疸尿赤",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "郁金.jpg",
+        "extname": "jpg",
+        "url": "/herbs/郁金.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\郁金.jpg",
+        "size": 18174,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "通草",
+    "latin_name": "Tetrapanacis Medulla",
+    "medicinal_part": "茎髓",
+    "taste": "甘、淡，微寒",
+    "meridian": "肺、胃经",
+    "efficacy": "清热利尿，通气下乳",
+    "indication": "湿热淋证，水肿尿少，乳汁不下",
+    "category": "利水渗湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "通草.jpg",
+        "extname": "jpg",
+        "url": "/herbs/通草.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\通草.jpg",
+        "size": 22802,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "连翘",
+    "latin_name": "Forsythiae Fructus",
+    "medicinal_part": "果实",
+    "taste": "苦，微寒",
+    "meridian": "肺、心、小肠经",
+    "efficacy": "清热解毒，消肿散结，疏散风热",
+    "indication": "痈疽，瘰疬，乳痈，丹毒，风热感冒，温病初起，温热入营，高热烦渴，神昏发斑，热淋涩痛",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "连翘.jpg",
+        "extname": "jpg",
+        "url": "/herbs/连翘.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\连翘.jpg",
+        "size": 21989,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "远志",
+    "latin_name": "Polygalae Radix",
+    "medicinal_part": "根",
+    "taste": "苦、辛，温",
+    "meridian": "心、肾、肺经",
+    "efficacy": "安神益智，交通心肾，祛痰，消肿",
+    "indication": "心肾不交引起的失眠多梦、健忘惊悸、神志恍惚，咳痰不爽，疮疡肿毒，乳房肿痛",
+    "category": "开窍药",
+    "views": 0,
+    "images": [
+      {
+        "name": "远志.jpg",
+        "extname": "jpg",
+        "url": "/herbs/远志.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\远志.jpg",
+        "size": 23653,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "辛夷",
+    "latin_name": "Magnoliae Flos",
+    "medicinal_part": "花蕾",
+    "taste": "辛，温",
+    "meridian": "肺、胃经",
+    "efficacy": "散风寒，通鼻窍",
+    "indication": "风寒感冒，鼻塞，鼻渊，鼻鼽",
+    "category": "解表药",
+    "views": 0,
+    "images": [
+      {
+        "name": "辛夷.jpg",
+        "extname": "jpg",
+        "url": "/herbs/辛夷.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\辛夷.jpg",
+        "size": 42884,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "路路通",
+    "latin_name": "Liquidambaris Fructus",
+    "medicinal_part": "成熟果序",
+    "taste": "苦，平",
+    "meridian": "肝、肾经",
+    "efficacy": "祛风活络，利水，通经",
+    "indication": "关节痹痛，麻木痉挛，水肿胀满，乳少，经闭",
+    "category": "祛风湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "路路通.jpg",
+        "extname": "jpg",
+        "url": "/herbs/路路通.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\路路通.jpg",
+        "size": 19242,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "赤芍",
+    "latin_name": "Paeoniae Radix Rubra",
+    "medicinal_part": "根",
+    "taste": "苦，微寒",
+    "meridian": "肝经",
+    "efficacy": "清热凉血，散瘀止痛",
+    "indication": "热入营血，温毒发斑，吐血衄血，目赤肿痛，肝郁胁痛，经闭痛经，癥瘕腹痛，跌扑损伤，痈肿疮疡",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "赤芍.jpg",
+        "extname": "jpg",
+        "url": "/herbs/赤芍.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\赤芍.jpg",
+        "size": 11892,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "赤石脂",
+    "latin_name": "Kaolinum",
+    "medicinal_part": "矿物",
+    "taste": "甘、酸、涩，温",
+    "meridian": "大肠、胃经",
+    "efficacy": "涩肠止泻，收敛止血，生肌敛疮",
+    "indication": "久泻久痢，大便出血，崩漏带下；外治疮疡久溃不敛，湿疮脓水浸淫",
+    "category": "固涩药",
+    "views": 0,
+    "images": [
+      {
+        "name": "赤石脂.jpg",
+        "extname": "jpg",
+        "url": "/herbs/赤石脂.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\赤石脂.jpg",
+        "size": 5384,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "贯众",
+    "latin_name": "Dryopteridis Crassirhizomatis Rhizoma",
+    "medicinal_part": "根茎及叶柄残基",
+    "taste": "苦，微寒；有小毒",
+    "meridian": "肝、脾经",
+    "efficacy": "清热解毒，止血，杀虫",
+    "indication": "时疫感冒，风热头痛，温毒发斑，疮疡肿毒，崩漏下血，虫积腹痛",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "贯众.jpg",
+        "extname": "jpg",
+        "url": "/herbs/贯众.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\贯众.jpg",
+        "size": 19941,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "谷芽",
+    "latin_name": "Oryzae Fructus Germinatus",
+    "medicinal_part": "成熟果实发芽干燥品",
+    "taste": "甘，温",
+    "meridian": "脾、胃经",
+    "efficacy": "消食和中，健脾开胃",
+    "indication": "食积不消，腹胀口臭，脾胃虚弱，不饥食少",
+    "category": "消食药",
+    "views": 0,
+    "images": [
+      {
+        "name": "谷芽.jpg",
+        "extname": "jpg",
+        "url": "/herbs/谷芽.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\谷芽.jpg",
+        "size": 21054,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "覆盆子",
+    "latin_name": "Rubi Fructus",
+    "medicinal_part": "未成熟果实",
+    "taste": "甘、酸，温",
+    "meridian": "肝、肾、膀胱经",
+    "efficacy": "益肾固精缩尿，养肝明目",
+    "indication": "遗精滑精，遗尿尿频，阳痿早泄，目暗昏花",
+    "category": "固涩药",
+    "views": 0,
+    "images": [
+      {
+        "name": "覆盆子.jpg",
+        "extname": "jpg",
+        "url": "/herbs/覆盆子.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\覆盆子.jpg",
+        "size": 21650,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "蝉蜕",
+    "latin_name": "Cicadae Periostracum",
+    "medicinal_part": "羽化后的蜕壳",
+    "taste": "甘，寒",
+    "meridian": "肺、肝经",
+    "efficacy": "疏散风热，利咽开音，透疹，明目退翳，息风止痉",
+    "indication": "风热感冒，咽痛音哑，麻疹不透，风疹瘙痒，目赤翳障，惊风抽搐，破伤风",
+    "category": "解表药",
+    "views": 0,
+    "images": [
+      {
+        "name": "蝉蜕.jpg",
+        "extname": "jpg",
+        "url": "/herbs/蝉蜕.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\蝉蜕.jpg",
+        "size": 17953,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "蛇床子",
+    "latin_name": "Cnidii Fructus",
+    "medicinal_part": "成熟果实",
+    "taste": "辛、苦，温；有小毒",
+    "meridian": "肾经",
+    "efficacy": "燥湿祛风，杀虫止痒，温肾壮阳",
+    "indication": "阴痒带下，湿疹瘙痒，湿痹腰痛，肾虚阳痿，宫冷不孕",
+    "category": "解毒杀虫燥湿止痒药",
+    "views": 0,
+    "images": [
+      {
+        "name": "蛇床子.jpg",
+        "extname": "jpg",
+        "url": "/herbs/蛇床子.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\蛇床子.jpg",
+        "size": 21587,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "虫草",
+    "latin_name": "Cordyceps",
+    "medicinal_part": "子座及幼虫尸体的复合体",
+    "taste": "甘，平",
+    "meridian": "肺、肾经",
+    "efficacy": "补肾益肺，止血化痰",
+    "indication": "肾虚精亏，阳痿遗精，腰膝酸痛，久咳虚喘，劳嗽咯血",
+    "category": "补阳药",
+    "views": 0,
+    "images": [
+      {
+        "name": "虫草.jpg",
+        "extname": "jpg",
+        "url": "/herbs/虫草.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\虫草.jpg",
+        "size": 12904,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "虎杖",
+    "latin_name": "Polygoni Cuspidati Rhizoma et Radix",
+    "medicinal_part": "根茎和根",
+    "taste": "微苦，微寒",
+    "meridian": "肝、胆、肺经",
+    "efficacy": "利湿退黄，清热解毒，散瘀止痛，止咳化痰",
+    "indication": "湿热黄疸，淋浊，带下，风湿痹痛，痈肿疮毒，水火烫伤，经闭，癥瘕，跌打损伤，肺热咳嗽",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "虎杖.jpg",
+        "extname": "jpg",
+        "url": "/herbs/虎杖.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\虎杖.jpg",
+        "size": 19560,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "薏苡仁",
+    "latin_name": "Coicis Semen",
+    "medicinal_part": "成熟种仁",
+    "taste": "甘、淡，凉",
+    "meridian": "脾、胃、肺经",
+    "efficacy": "利水渗湿，健脾止泻，除痹，排脓，解毒散结",
+    "indication": "水肿，脚气，小便不利，脾虚泄泻，湿痹拘挛，肺痈，肠痈，赘疣，癌肿",
+    "category": "利水渗湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "薏苡仁.jpg",
+        "extname": "jpg",
+        "url": "/herbs/薏苡仁.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\薏苡仁.jpg",
+        "size": 15641,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "蒲黄",
+    "latin_name": "Typhae Pollen",
+    "medicinal_part": "花粉",
+    "taste": "甘，平",
+    "meridian": "肝、心包经",
+    "efficacy": "止血，化瘀，通淋",
+    "indication": "吐血，衄血，咯血，崩漏，外伤出血，经闭痛经，胸腹刺痛，跌扑肿痛，血淋涩痛",
+    "category": "止血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "蒲黄.jpg",
+        "extname": "jpg",
+        "url": "/herbs/蒲黄.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\蒲黄.jpg",
+        "size": 17473,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "蒲公英",
+    "latin_name": "Taraxaci Herba",
+    "medicinal_part": "全草",
+    "taste": "苦、甘，寒",
+    "meridian": "肝、胃经",
+    "efficacy": "清热解毒，消肿散结，利湿通淋",
+    "indication": "疔疮肿毒，乳痈，瘰疬，目赤，咽痛，肺痈，肠痈，湿热黄疸，热淋涩痛",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "蒲公英.jpg",
+        "extname": "jpg",
+        "url": "/herbs/蒲公英.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\蒲公英.jpg",
+        "size": 26158,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "葛根",
+    "latin_name": "Puerariae Lobatae Radix",
+    "medicinal_part": "根",
+    "taste": "甘、辛，凉",
+    "meridian": "脾、胃、肺经",
+    "efficacy": "解肌退热，生津止渴，透疹，升阳止泻，通经活络，解酒毒",
+    "indication": "外感发热头痛，项背强痛，口渴，消渴，麻疹不透，热痢，泄泻，眩晕头痛，中风偏瘫，胸痹心痛，酒毒伤中",
+    "category": "解表药",
+    "views": 0,
+    "images": [
+      {
+        "name": "葛根.jpg",
+        "extname": "jpg",
+        "url": "/herbs/葛根.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\葛根.jpg",
+        "size": 20038,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "菟丝子",
+    "latin_name": "Cuscutae Semen",
+    "medicinal_part": "成熟种子",
+    "taste": "甘，温",
+    "meridian": "肝、肾、脾经",
+    "efficacy": "补益肝肾，固精缩尿，安胎，明目，止泻；外用消风祛斑",
+    "indication": "肝肾不足，腰膝酸软，阳痿遗精，遗尿尿频，肾虚胎漏，胎动不安，目昏耳鸣，脾肾虚泻；外治白癜风",
+    "category": "补阳药",
+    "views": 0,
+    "images": [
+      {
+        "name": "菟丝子.jpg",
+        "extname": "jpg",
+        "url": "/herbs/菟丝子.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\菟丝子.jpg",
+        "size": 20922,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "莲子心",
+    "latin_name": "Nelumbinis Plumula",
+    "medicinal_part": "成熟种子中的幼叶及胚根",
+    "taste": "苦，寒",
+    "meridian": "心、肾经",
+    "efficacy": "清心安神，交通心肾，涩精止血",
+    "indication": "热入心包，神昏谵语，心肾不交，失眠遗精，血热吐血",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "莲子心.jpg",
+        "extname": "jpg",
+        "url": "/herbs/莲子心.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\莲子心.jpg",
+        "size": 22684,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "莱菔子",
+    "latin_name": "Raphani Semen",
+    "medicinal_part": "成熟种子",
+    "taste": "辛、甘，平",
+    "meridian": "肺、脾、胃经",
+    "efficacy": "消食除胀，降气化痰",
+    "indication": "饮食停滞，脘腹胀痛，大便秘结，积滞泻痢，痰壅喘咳",
+    "category": "消食药",
+    "views": 0,
+    "images": [
+      {
+        "name": "莱菔子.jpg",
+        "extname": "jpg",
+        "url": "/herbs/莱菔子.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\莱菔子.jpg",
+        "size": 34388,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "荔枝核",
+    "latin_name": "Litchi Semen",
+    "medicinal_part": "成熟种子",
+    "taste": "甘、微苦，温",
+    "meridian": "肝、肾经",
+    "efficacy": "行气散结，祛寒止痛",
+    "indication": "寒疝腹痛，睾丸肿痛",
+    "category": "理气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "荔枝核.jpg",
+        "extname": "jpg",
+        "url": "/herbs/荔枝核.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\荔枝核.jpg",
+        "size": 22675,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "草蔻",
+    "latin_name": "Alpiniae Katsumadai Semen",
+    "medicinal_part": "成熟种子",
+    "taste": "辛，温",
+    "meridian": "脾、胃经",
+    "efficacy": "燥湿行气，温中止呕",
+    "indication": "寒湿内阻，脘腹胀满冷痛，嗳气呕逆，不思饮食",
+    "category": "化湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "草蔻.jpg",
+        "extname": "jpg",
+        "url": "/herbs/草蔻.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\草蔻.jpg",
+        "size": 11771,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "草果",
+    "latin_name": "Tsaoko Fructus",
+    "medicinal_part": "成熟果实",
+    "taste": "辛，温",
+    "meridian": "脾、胃经",
+    "efficacy": "燥湿温中，截疟除痰",
+    "indication": "寒湿内阻，脘腹胀痛，痞满呕吐，疟疾寒热，瘟疫发热",
+    "category": "化湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "草果.jpg",
+        "extname": "jpg",
+        "url": "/herbs/草果.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\草果.jpg",
+        "size": 20294,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "荆芥",
+    "latin_name": "Schizonepetae Herba",
+    "medicinal_part": "地上部分",
+    "taste": "辛，微温",
+    "meridian": "肺、肝经",
+    "efficacy": "解表散风，透疹，消疮",
+    "indication": "感冒，头痛，麻疹，风疹，疮疡初起",
+    "category": "解表药",
+    "views": 0,
+    "images": [
+      {
+        "name": "荆芥.jpg",
+        "extname": "jpg",
+        "url": "/herbs/荆芥.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\荆芥.jpg",
+        "size": 35329,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "茵陈",
+    "latin_name": "Artemisiae Scopariae Herba",
+    "medicinal_part": "地上部分",
+    "taste": "苦、辛，微寒",
+    "meridian": "脾、胃、肝、胆经",
+    "efficacy": "清利湿热，利胆退黄",
+    "indication": "黄疸尿少，湿温暑湿，湿疮瘙痒",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "茵陈.jpg",
+        "extname": "jpg",
+        "url": "/herbs/茵陈.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\茵陈.jpg",
+        "size": 19648,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "茯苓",
+    "latin_name": "Poria",
+    "medicinal_part": "菌核",
+    "taste": "甘、淡，平",
+    "meridian": "心、肺、脾、肾经",
+    "efficacy": "利水渗湿，健脾，宁心",
+    "indication": "水肿尿少，痰饮眩悸，脾虚食少，便溏泄泻，心神不安，惊悸失眠",
+    "category": "利水渗湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "茯苓.jpg",
+        "extname": "jpg",
+        "url": "/herbs/茯苓.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\茯苓.jpg",
+        "size": 16722,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "苦参",
+    "latin_name": "Sophorae Flavescentis Radix",
+    "medicinal_part": "根",
+    "taste": "苦，寒",
+    "meridian": "心、肝、胃、大肠、膀胱经",
+    "efficacy": "清热燥湿，杀虫，利尿",
+    "indication": "热痢，便血，黄疸尿闭，赤白带下，阴肿阴痒，湿疹，湿疮，皮肤瘙痒，疥癣麻风，外治滴虫性阴道炎",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "苦参.jpg",
+        "extname": "jpg",
+        "url": "/herbs/苦参.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\苦参.jpg",
+        "size": 20437,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "苍术",
+    "latin_name": "Atractylodis Rhizoma",
+    "medicinal_part": "根茎",
+    "taste": "辛、苦，温",
+    "meridian": "脾、胃、肝经",
+    "efficacy": "燥湿健脾，祛风散寒，明目",
+    "indication": "湿阻中焦，脘腹胀满，泄泻，水肿，脚气痿躄，风湿痹痛，风寒感冒，夜盲，眼目昏涩",
+    "category": "化湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "苍术.jpg",
+        "extname": "jpg",
+        "url": "/herbs/苍术.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\苍术.jpg",
+        "size": 13755,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "艾叶",
+    "latin_name": "Artemisiae Argyi Folium",
+    "medicinal_part": "叶",
+    "taste": "辛、苦，温；有小毒",
+    "meridian": "肝、脾、肾经",
+    "efficacy": "温经止血，散寒止痛；外用祛湿止痒",
+    "indication": "吐血，衄血，崩漏，月经过多，胎漏下血，少腹冷痛，经寒不调，宫冷不孕；外治皮肤瘙痒",
+    "category": "温里药",
+    "views": 0,
+    "images": [
+      {
+        "name": "艾叶.jpg",
+        "extname": "jpg",
+        "url": "/herbs/艾叶.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\艾叶.jpg",
+        "size": 24354,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "肉豆蔻",
+    "latin_name": "Myristicae Semen",
+    "medicinal_part": "成熟种仁",
+    "taste": "辛，温",
+    "meridian": "脾、胃、大肠经",
+    "efficacy": "温中行气，涩肠止泻",
+    "indication": "脾胃虚寒，久泻不止，脘腹胀痛，食少呕吐",
+    "category": "固涩药",
+    "views": 0,
+    "images": [
+      {
+        "name": "肉豆蔻.jpg",
+        "extname": "jpg",
+        "url": "/herbs/肉豆蔻.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\肉豆蔻.jpg",
+        "size": 18007,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "肉苁蓉片",
+    "latin_name": "Cistanches Herba",
+    "medicinal_part": "肉质茎（片）",
+    "taste": "甘、咸，温",
+    "meridian": "肾、大肠经",
+    "efficacy": "补肾阳，益精血，润肠通便",
+    "indication": "肾阳不足，精血亏虚，阳痿不孕，腰膝酸软，筋骨无力，肠燥便秘",
+    "category": "补阳药",
+    "views": 0,
+    "images": [
+      {
+        "name": "肉苁蓉片.jpg",
+        "extname": "jpg",
+        "url": "/herbs/肉苁蓉片.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\肉苁蓉片.jpg",
+        "size": 25696,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "肉苁蓉根",
+    "latin_name": "Cistanches Herba",
+    "medicinal_part": "肉质茎（根）",
+    "taste": "甘、咸，温",
+    "meridian": "肾、大肠经",
+    "efficacy": "补肾阳，益精血，润肠通便",
+    "indication": "肾阳不足，精血亏虚，阳痿不孕，腰膝酸软，筋骨无力，肠燥便秘",
+    "category": "补阳药",
+    "views": 0,
+    "images": [
+      {
+        "name": "肉苁蓉根.jpg",
+        "extname": "jpg",
+        "url": "/herbs/肉苁蓉根.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\肉苁蓉根.jpg",
+        "size": 16023,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "肉桂",
+    "latin_name": "Cinnamomi Cortex",
+    "medicinal_part": "树皮",
+    "taste": "辛、甘，大热",
+    "meridian": "肾、脾、心、肝经",
+    "efficacy": "补火助阳，引火归元，散寒止痛，温通经脉",
+    "indication": "阳痿宫冷，腰膝冷痛，肾虚作喘，虚阳上浮，眩晕目赤，心腹冷痛，虚寒吐泻，寒疝腹痛，痛经经闭",
+    "category": "温里药",
+    "views": 0,
+    "images": [
+      {
+        "name": "肉桂.jpg",
+        "extname": "jpg",
+        "url": "/herbs/肉桂.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\肉桂.jpg",
+        "size": 15673,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "羌活",
+    "latin_name": "Notopterygii Radix et Rhizoma",
+    "medicinal_part": "根茎和根",
+    "taste": "辛、苦，温",
+    "meridian": "膀胱、肾经",
+    "efficacy": "解表散寒，祛风除湿，止痛",
+    "indication": "风寒感冒，头痛项强，风湿痹痛，肩背酸痛",
+    "category": "解表药",
+    "views": 0,
+    "images": [
+      {
+        "name": "羌活.jpg",
+        "extname": "jpg",
+        "url": "/herbs/羌活.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\羌活.jpg",
+        "size": 12582,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "罗汉果",
+    "latin_name": "Siraitiae Fructus",
+    "medicinal_part": "果实",
+    "taste": "甘，凉",
+    "meridian": "肺、大肠经",
+    "efficacy": "清热润肺，利咽开音，滑肠通便",
+    "indication": "肺热燥咳，咽痛失音，肠燥便秘",
+    "category": "化痰止咳平喘药",
+    "views": 0,
+    "images": [
+      {
+        "name": "罗汉果.jpg",
+        "extname": "jpg",
+        "url": "/herbs/罗汉果.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\罗汉果.jpg",
+        "size": 16644,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "续断",
+    "latin_name": "Dipsaci Radix",
+    "medicinal_part": "根",
+    "taste": "苦、辛，微温",
+    "meridian": "肝、肾经",
+    "efficacy": "补肝肾，强筋骨，续折伤，止崩漏",
+    "indication": "肝肾不足，腰膝酸软，风湿痹痛，跌扑损伤，筋伤骨折，崩漏，胎漏",
+    "category": "补阳药",
+    "views": 0,
+    "images": [
+      {
+        "name": "续断.jpg",
+        "extname": "jpg",
+        "url": "/herbs/续断.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\续断.jpg",
+        "size": 13404,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "络石藤",
+    "latin_name": "Trachelospermi Caulis et Folium",
+    "medicinal_part": "带叶藤茎",
+    "taste": "苦，微寒",
+    "meridian": "心、肝经",
+    "efficacy": "祛风通络，凉血消肿",
+    "indication": "风湿热痹，筋脉拘挛，腰膝酸痛，喉痹，痈肿，跌扑损伤",
+    "category": "祛风湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "络石藤.jpg",
+        "extname": "jpg",
+        "url": "/herbs/络石藤.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\络石藤.jpg",
+        "size": 17333,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "细辛",
+    "latin_name": "Asari Radix et Rhizoma",
+    "medicinal_part": "根和根茎",
+    "taste": "辛，温；有小毒",
+    "meridian": "心、肺、肾经",
+    "efficacy": "解表散寒，祛风止痛，通窍，温肺化饮",
+    "indication": "风寒感冒，头痛，牙痛，鼻塞流涕，鼻鼽，鼻渊，风湿痹痛，痰饮喘咳",
+    "category": "解表药",
+    "views": 0,
+    "images": [
+      {
+        "name": "细辛.jpg",
+        "extname": "jpg",
+        "url": "/herbs/细辛.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\细辛.jpg",
+        "size": 23507,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "红蔻",
+    "latin_name": "Alpiniae Galangae Fructus",
+    "medicinal_part": "成熟果实",
+    "taste": "辛，温",
+    "meridian": "脾、胃经",
+    "efficacy": "温中燥湿，醒脾消食",
+    "indication": "寒湿阻滞，脘腹胀满，呕吐泄泻，食积不消",
+    "category": "温里药",
+    "views": 0,
+    "images": [
+      {
+        "name": "红蔻.jpg",
+        "extname": "jpg",
+        "url": "/herbs/红蔻.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\红蔻.jpg",
+        "size": 21639,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "红花",
+    "latin_name": "Carthami Flos",
+    "medicinal_part": "花",
+    "taste": "辛，温",
+    "meridian": "心、肝经",
+    "efficacy": "活血通经，散瘀止痛",
+    "indication": "经闭，痛经，恶露不行，癥瘕痞块，胸痹心痛，瘀滞腹痛，胸胁刺痛，跌扑损伤，疮疡肿痛",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "红花.jpg",
+        "extname": "jpg",
+        "url": "/herbs/红花.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\红花.jpg",
+        "size": 13008,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "紫草",
+    "latin_name": "Arnebiae Radix / Lithospermi Radix",
+    "medicinal_part": "根",
+    "taste": "甘、咸，寒",
+    "meridian": "心、肝经",
+    "efficacy": "清热凉血，活血，解毒透疹",
+    "indication": "血热毒盛，斑疹紫黑，麻疹不透，疮疡，湿疹，水火烫伤",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "紫草.jpg",
+        "extname": "jpg",
+        "url": "/herbs/紫草.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\紫草.jpg",
+        "size": 29396,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "紫花地丁",
+    "latin_name": "Violae Herba",
+    "medicinal_part": "全草",
+    "taste": "苦、辛，寒",
+    "meridian": "心、肝经",
+    "efficacy": "清热解毒，凉血消肿",
+    "indication": "疔疮肿毒，痈疽发背，丹毒，毒蛇咬伤",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "紫花地丁.jpg",
+        "extname": "jpg",
+        "url": "/herbs/紫花地丁.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\紫花地丁.jpg",
+        "size": 24893,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "竹茹",
+    "latin_name": "Bambusae Shavings",
+    "medicinal_part": "茎的中间层",
+    "taste": "甘，微寒",
+    "meridian": "肺、胃、心、胆经",
+    "efficacy": "清热化痰，除烦，止呕",
+    "indication": "痰热咳嗽，胆火挟痰，惊悸不宁，心烦失眠，中风痰迷，舌强不语，胃热呕吐，妊娠恶阻，胎动不安",
+    "category": "化痰止咳平喘药",
+    "views": 0,
+    "images": [
+      {
+        "name": "竹茹.jpg",
+        "extname": "jpg",
+        "url": "/herbs/竹茹.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\竹茹.jpg",
+        "size": 26827,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "穿心莲",
+    "latin_name": "Andrographidis Herba",
+    "medicinal_part": "地上部分",
+    "taste": "苦，寒",
+    "meridian": "心、肺、大肠、膀胱经",
+    "efficacy": "清热解毒，凉血，利湿",
+    "indication": "感冒发热，咽喉肿痛，口舌生疮，顿咳劳嗽，泄泻痢疾，热淋涩痛，痈肿疮疡，蛇虫咬伤",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "穿心莲.jpg",
+        "extname": "jpg",
+        "url": "/herbs/穿心莲.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\穿心莲.jpg",
+        "size": 28348,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "穿山甲",
+    "latin_name": "Manis Squama",
+    "medicinal_part": "鳞甲",
+    "taste": "咸，微寒",
+    "meridian": "肝、胃经",
+    "efficacy": "活血消癥，通经下乳，消肿排脓，搜风通络",
+    "indication": "经闭癥瘕，乳汁不通，痈肿疮毒，风湿痹痛，中风瘫痪，麻木拘挛",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "穿山甲.jpg",
+        "extname": "jpg",
+        "url": "/herbs/穿山甲.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\穿山甲.jpg",
+        "size": 25565,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "神曲",
+    "latin_name": "Massa Medicata Fermentata",
+    "medicinal_part": "发酵加工品",
+    "taste": "甘、辛，温",
+    "meridian": "脾、胃经",
+    "efficacy": "消食和胃",
+    "indication": "饮食积滞，脘腹胀满，食少纳呆，肠鸣泄泻",
+    "category": "消食药",
+    "views": 0,
+    "images": [
+      {
+        "name": "神曲.jpg",
+        "extname": "jpg",
+        "url": "/herbs/神曲.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\神曲.jpg",
+        "size": 18143,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "磁石",
+    "latin_name": "Magnetitum",
+    "medicinal_part": "矿石",
+    "taste": "咸，寒",
+    "meridian": "肝、心、肾经",
+    "efficacy": "镇惊安神，平肝潜阳，聪耳明目，纳气平喘",
+    "indication": "惊悸失眠，头晕目眩，视物昏花，耳鸣耳聋，肾虚气喘",
+    "category": "平肝熄风药",
+    "views": 0,
+    "images": [
+      {
+        "name": "磁石.jpg",
+        "extname": "jpg",
+        "url": "/herbs/磁石.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\磁石.jpg",
+        "size": 18881,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "砂仁",
+    "latin_name": "Amomi Fructus",
+    "medicinal_part": "成熟果实",
+    "taste": "辛，温",
+    "meridian": "脾、胃、肾经",
+    "efficacy": "化湿开胃，温脾止泻，理气安胎",
+    "indication": "湿浊中阻，脘痞不饥，脾胃虚寒，呕吐泄泻，妊娠恶阻，胎动不安",
+    "category": "化湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "砂仁.jpg",
+        "extname": "jpg",
+        "url": "/herbs/砂仁.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\砂仁.jpg",
+        "size": 17234,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "石菖蒲",
+    "latin_name": "Acori Tatarinowii Rhizoma",
+    "medicinal_part": "根茎",
+    "taste": "辛、苦，温",
+    "meridian": "心、胃经",
+    "efficacy": "开窍豁痰，醒神益智，化湿开胃",
+    "indication": "神昏癫痫，健忘失眠，耳鸣耳聋，脘痞不饥，噤口下痢",
+    "category": "开窍药",
+    "views": 0,
+    "images": [
+      {
+        "name": "石菖蒲.jpg",
+        "extname": "jpg",
+        "url": "/herbs/石菖蒲.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\石菖蒲.jpg",
+        "size": 19163,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "石膏",
+    "latin_name": "Gypsum Fibrosum",
+    "medicinal_part": "矿物",
+    "taste": "甘、辛，大寒",
+    "meridian": "肺、胃经",
+    "efficacy": "生用：清热泻火，除烦止渴；煅用：收湿，生肌，敛疮，止血",
+    "indication": "外感热病，高热烦渴，肺热喘咳，胃火亢盛，头痛，牙痛；煅石膏外用治溃疡不敛，湿疹瘙痒，水火烫伤，外伤出血",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "石膏.jpg",
+        "extname": "jpg",
+        "url": "/herbs/石膏.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\石膏.jpg",
+        "size": 17869,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "石斛",
+    "latin_name": "Dendrobii Caulis",
+    "medicinal_part": "茎",
+    "taste": "甘，微寒",
+    "meridian": "胃、肾经",
+    "efficacy": "益胃生津，滋阴清热",
+    "indication": "热病津伤，口干烦渴，胃阴不足，食少干呕，病后虚热不退，阴虚火旺，骨蒸劳热，目暗不明，筋骨痿软",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "石斛.jpg",
+        "extname": "jpg",
+        "url": "/herbs/石斛.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\石斛.jpg",
+        "size": 9862,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "知母",
+    "latin_name": "Anemarrhenae Rhizoma",
+    "medicinal_part": "根茎",
+    "taste": "苦、甘，寒",
+    "meridian": "肺、胃、肾经",
+    "efficacy": "清热泻火，滋阴润燥",
+    "indication": "外感热病，高热烦渴，肺热燥咳，骨蒸潮热，内热消渴，肠燥便秘",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "知母.jpg",
+        "extname": "jpg",
+        "url": "/herbs/知母.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\知母.jpg",
+        "size": 13155,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "益母草",
+    "latin_name": "Leonuri Herba",
+    "medicinal_part": "地上部分",
+    "taste": "苦、辛，微寒",
+    "meridian": "肝、心包、膀胱经",
+    "efficacy": "活血调经，利尿消肿，清热解毒",
+    "indication": "月经不调，痛经经闭，恶露不尽，水肿尿少，疮疡肿毒",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "益母草.jpg",
+        "extname": "jpg",
+        "url": "/herbs/益母草.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\益母草.jpg",
+        "size": 30480,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "百部",
+    "latin_name": "Stemonae Radix",
+    "medicinal_part": "块根",
+    "taste": "甘、苦，微温",
+    "meridian": "肺经",
+    "efficacy": "润肺下气止咳，杀虫灭虱",
+    "indication": "新久咳嗽，肺痨咳嗽，顿咳；外用于头虱，体虱，蛲虫病，阴痒",
+    "category": "化痰止咳平喘药",
+    "views": 0,
+    "images": [
+      {
+        "name": "百部.jpg",
+        "extname": "jpg",
+        "url": "/herbs/百部.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\百部.jpg",
+        "size": 12175,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "百合",
+    "latin_name": "Lilii Bulbus",
+    "medicinal_part": "肉质鳞叶",
+    "taste": "甘，寒",
+    "meridian": "心、肺经",
+    "efficacy": "养阴润肺，清心安神",
+    "indication": "阴虚燥咳，劳嗽咯血，虚烦惊悸，失眠多梦，精神恍惚",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "百合.jpg",
+        "extname": "jpg",
+        "url": "/herbs/百合.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\百合.jpg",
+        "size": 15138,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "白蔻",
+    "latin_name": "Amomi Rotundus Fructus",
+    "medicinal_part": "成熟果实",
+    "taste": "辛，温",
+    "meridian": "肺、脾、胃经",
+    "efficacy": "化湿行气，温中止呕",
+    "indication": "湿浊中阻，不思饮食，湿温初起，胸闷不饥，寒湿呕逆，胸腹胀痛，食积不消",
+    "category": "化湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "白蔻.jpg",
+        "extname": "jpg",
+        "url": "/herbs/白蔻.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\白蔻.jpg",
+        "size": 22052,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "白茅根",
+    "latin_name": "Imperatae Rhizoma",
+    "medicinal_part": "根茎",
+    "taste": "甘，寒",
+    "meridian": "肺、胃、膀胱经",
+    "efficacy": "凉血止血，清热生津，利尿通淋",
+    "indication": "血热吐血，衄血，尿血，热病烦渴，肺热咳嗽，胃热呕吐，湿热黄疸，水肿尿少，热淋涩痛",
+    "category": "止血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "白茅根.jpg",
+        "extname": "jpg",
+        "url": "/herbs/白茅根.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\白茅根.jpg",
+        "size": 18516,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "白花蛇舌草",
+    "latin_name": "Hedyotidis Diffusae Herba",
+    "medicinal_part": "全草",
+    "taste": "微苦、甘，寒",
+    "meridian": "胃、大肠、小肠经",
+    "efficacy": "清热解毒，利湿通淋",
+    "indication": "痈肿疮毒，咽喉肿痛，毒蛇咬伤，热淋涩痛",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "白花蛇舌草.jpg",
+        "extname": "jpg",
+        "url": "/herbs/白花蛇舌草.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\白花蛇舌草.jpg",
+        "size": 33879,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "白芍",
+    "latin_name": "Paeoniae Radix Alba",
+    "medicinal_part": "根",
+    "taste": "苦、酸，微寒",
+    "meridian": "肝、脾经",
+    "efficacy": "养血调经，敛阴止汗，柔肝止痛，平抑肝阳",
+    "indication": "血虚萎黄，月经不调，自汗，盗汗，胁痛，腹痛，四肢挛痛，头痛眩晕",
+    "category": "补血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "白芍.jpg",
+        "extname": "jpg",
+        "url": "/herbs/白芍.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\白芍.jpg",
+        "size": 19411,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "白矾",
+    "latin_name": "Alumen",
+    "medicinal_part": "矿物",
+    "taste": "酸、涩，寒",
+    "meridian": "肺、脾、肝、大肠经",
+    "efficacy": "外用解毒杀虫，燥湿止痒；内服止血止泻，祛除风痰",
+    "indication": "湿疹，疥癣，脱肛，痔疮，聤耳流脓，内服用于久泻，便血，崩漏，癫痫发狂",
+    "category": "解毒杀虫燥湿止痒药",
+    "views": 0,
+    "images": [
+      {
+        "name": "白矾.jpg",
+        "extname": "jpg",
+        "url": "/herbs/白矾.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\白矾.jpg",
+        "size": 13692,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "白术",
+    "latin_name": "Atractylodis Macrocephalae Rhizoma",
+    "medicinal_part": "根茎",
+    "taste": "苦、甘，温",
+    "meridian": "脾、胃经",
+    "efficacy": "健脾益气，燥湿利水，止汗，安胎",
+    "indication": "脾虚食少，腹胀泄泻，痰饮眩悸，水肿，自汗，胎动不安",
+    "category": "补气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "白术.jpg",
+        "extname": "jpg",
+        "url": "/herbs/白术.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\白术.jpg",
+        "size": 29211,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "白扁豆",
+    "latin_name": "Dolichoris Semen",
+    "medicinal_part": "成熟种子",
+    "taste": "甘，微温",
+    "meridian": "脾、胃经",
+    "efficacy": "健脾化湿，和中消暑",
+    "indication": "脾胃虚弱，食欲不振，大便溏泻，白带过多，暑湿吐泻，胸闷腹胀",
+    "category": "补气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "白扁豆.jpg",
+        "extname": "jpg",
+        "url": "/herbs/白扁豆.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\白扁豆.jpg",
+        "size": 8805,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "白头翁",
+    "latin_name": "Pulsatillae Radix",
+    "medicinal_part": "根",
+    "taste": "苦，寒",
+    "meridian": "胃、大肠经",
+    "efficacy": "清热解毒，凉血止痢",
+    "indication": "热毒血痢，阴痒带下",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "白头翁.jpg",
+        "extname": "jpg",
+        "url": "/herbs/白头翁.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\白头翁.jpg",
+        "size": 19121,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "甘草",
+    "latin_name": "Glycyrrhizae Radix et Rhizoma",
+    "medicinal_part": "根和根茎",
+    "taste": "甘，平",
+    "meridian": "心、肺、脾、胃经",
+    "efficacy": "补脾益气，清热解毒，祛痰止咳，缓急止痛，调和诸药",
+    "indication": "脾胃虚弱，倦怠乏力，心悸气短，咳嗽痰多，脘腹、四肢挛急疼痛，痈肿疮毒，缓解药物毒性、烈性",
+    "category": "补气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "甘草.jpg",
+        "extname": "jpg",
+        "url": "/herbs/甘草.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\甘草.jpg",
+        "size": 20767,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "珍珠母",
+    "latin_name": "Margaritifera Concha",
+    "medicinal_part": "贝壳",
+    "taste": "咸，寒",
+    "meridian": "肝、心经",
+    "efficacy": "平肝潜阳，安神定惊，明目退翳",
+    "indication": "头痛眩晕，惊悸失眠，目赤翳障，视物昏花",
+    "category": "平肝熄风药",
+    "views": 0,
+    "images": [
+      {
+        "name": "珍珠母.jpg",
+        "extname": "jpg",
+        "url": "/herbs/珍珠母.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\珍珠母.jpg",
+        "size": 25397,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "玉竹片",
+    "latin_name": "Polygonati Odorati Rhizoma",
+    "medicinal_part": "根茎（片）",
+    "taste": "甘，微寒",
+    "meridian": "肺、胃经",
+    "efficacy": "养阴润燥，生津止渴",
+    "indication": "肺胃阴伤，燥热咳嗽，咽干口渴，内热消渴",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "玉竹片.jpg",
+        "extname": "jpg",
+        "url": "/herbs/玉竹片.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\玉竹片.jpg",
+        "size": 13491,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "玉竹条",
+    "latin_name": "Polygonati Odorati Rhizoma",
+    "medicinal_part": "根茎（条）",
+    "taste": "甘，微寒",
+    "meridian": "肺、胃经",
+    "efficacy": "养阴润燥，生津止渴",
+    "indication": "肺胃阴伤，燥热咳嗽，咽干口渴，内热消渴",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "玉竹条.jpg",
+        "extname": "jpg",
+        "url": "/herbs/玉竹条.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\玉竹条.jpg",
+        "size": 24816,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "牡蛎",
+    "latin_name": "Ostreae Concha",
+    "medicinal_part": "贝壳",
+    "taste": "咸，微寒",
+    "meridian": "肝、胆、肾经",
+    "efficacy": "重镇安神，潜阳补阴，软坚散结",
+    "indication": "惊悸失眠，眩晕耳鸣，瘰疬痰核，癥瘕痞块，自汗盗汗，遗精崩带，胃痛泛酸",
+    "category": "平肝熄风药",
+    "views": 0,
+    "images": [
+      {
+        "name": "牡蛎.jpg",
+        "extname": "jpg",
+        "url": "/herbs/牡蛎.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\牡蛎.jpg",
+        "size": 15552,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "牡丹皮",
+    "latin_name": "Moutan Cortex",
+    "medicinal_part": "根皮",
+    "taste": "苦、辛，微寒",
+    "meridian": "心、肝、肾经",
+    "efficacy": "清热凉血，活血化瘀",
+    "indication": "热入营血，温毒发斑，吐血衄血，夜热早凉，无汗骨蒸，经闭痛经，跌扑伤痛，痈肿疮毒",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "牡丹皮.jpg",
+        "extname": "jpg",
+        "url": "/herbs/牡丹皮.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\牡丹皮.jpg",
+        "size": 15492,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "牛膝",
+    "latin_name": "Achyranthis Bidentatae Radix",
+    "medicinal_part": "根",
+    "taste": "苦、甘、酸，平",
+    "meridian": "肝、肾经",
+    "efficacy": "逐瘀通经，补肝肾，强筋骨，利尿通淋，引血下行",
+    "indication": "经闭，痛经，腰膝酸痛，筋骨无力，淋证，水肿，头痛，眩晕，牙痛，口疮，吐血，衄血",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "牛膝.jpg",
+        "extname": "jpg",
+        "url": "/herbs/牛膝.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\牛膝.jpg",
+        "size": 23793,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "熟地黄",
+    "latin_name": "Rehmanniae Radix Praeparata",
+    "medicinal_part": "块根加工品",
+    "taste": "甘，微温",
+    "meridian": "肝、肾经",
+    "efficacy": "补血滋阴，益精填髓",
+    "indication": "血虚萎黄，心悸怔忡，月经不调，崩漏下血，肝肾阴虚，腰膝酸软，骨蒸潮热，盗汗遗精，内热消渴，眩晕，耳鸣，须发早白",
+    "category": "补血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "熟地黄.jpg",
+        "extname": "jpg",
+        "url": "/herbs/熟地黄.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\熟地黄.jpg",
+        "size": 45240,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "炮姜",
+    "latin_name": "Zingiberis Rhizoma Praeparata",
+    "medicinal_part": "干姜炮制品",
+    "taste": "辛，热",
+    "meridian": "脾、胃、肾经",
+    "efficacy": "温经止血，温中止痛",
+    "indication": "阳虚失血，吐衄崩漏，脾胃虚寒，腹痛吐泻",
+    "category": "温里药",
+    "views": 0,
+    "images": [
+      {
+        "name": "炮姜.jpg",
+        "extname": "jpg",
+        "url": "/herbs/炮姜.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\炮姜.jpg",
+        "size": 22516,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "灵芝",
+    "latin_name": "Ganoderma",
+    "medicinal_part": "子实体",
+    "taste": "甘，平",
+    "meridian": "心、肺、肝、肾经",
+    "efficacy": "补气安神，止咳平喘",
+    "indication": "心神不宁，失眠心悸，肺虚咳喘，虚劳短气，不思饮食",
+    "category": "补气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "灵芝.jpg",
+        "extname": "jpg",
+        "url": "/herbs/灵芝.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\灵芝.jpg",
+        "size": 20992,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "火麻仁",
+    "latin_name": "Cannabis Semen",
+    "medicinal_part": "成熟果实",
+    "taste": "甘，平",
+    "meridian": "脾、胃、大肠经",
+    "efficacy": "润肠通便",
+    "indication": "血虚津亏，肠燥便秘",
+    "category": "泻下药",
+    "views": 0,
+    "images": [
+      {
+        "name": "火麻仁.jpg",
+        "extname": "jpg",
+        "url": "/herbs/火麻仁.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\火麻仁.jpg",
+        "size": 13343,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "浙贝母",
+    "latin_name": "Fritillariae Thunbergii Bulbus",
+    "medicinal_part": "鳞茎",
+    "taste": "苦，寒",
+    "meridian": "肺、心经",
+    "efficacy": "清热化痰，散结消痈",
+    "indication": "风热咳嗽，痰火咳嗽，肺痈，乳痈，瘰疬，疮毒",
+    "category": "化痰止咳平喘药",
+    "views": 0,
+    "images": [
+      {
+        "name": "浙贝母.jpg",
+        "extname": "jpg",
+        "url": "/herbs/浙贝母.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\浙贝母.jpg",
+        "size": 27388,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "泽兰",
+    "latin_name": "Lycopi Herba",
+    "medicinal_part": "地上部分",
+    "taste": "苦、辛，微温",
+    "meridian": "肝、脾经",
+    "efficacy": "活血调经，祛瘀消痈，利水消肿",
+    "indication": "月经不调，经闭，痛经，产后瘀血腹痛，疮痈肿毒，水肿腹水",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "泽兰.jpg",
+        "extname": "jpg",
+        "url": "/herbs/泽兰.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\泽兰.jpg",
+        "size": 14639,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "沉香",
+    "latin_name": "Aquilariae Lignum Resinatum",
+    "medicinal_part": "含树脂木材",
+    "taste": "辛、苦，微温",
+    "meridian": "脾、胃、肾经",
+    "efficacy": "行气止痛，温中止呕，纳气平喘",
+    "indication": "胸腹胀闷疼痛，胃寒呕吐呃逆，肾虚气逆喘急",
+    "category": "理气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "沉香.jpg",
+        "extname": "jpg",
+        "url": "/herbs/沉香.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\沉香.jpg",
+        "size": 11485,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "水红花子",
+    "latin_name": "Polygonum Hydropiperis Fructus",
+    "medicinal_part": "成熟果实",
+    "taste": "咸，微寒",
+    "meridian": "肝、胃经",
+    "efficacy": "散血消癥，消积止痛，利水消肿",
+    "indication": "癥瘕痞块，瘿瘤，食积不消，胃脘胀痛，水肿腹水",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "水红花子.jpg",
+        "extname": "jpg",
+        "url": "/herbs/水红花子.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\水红花子.jpg",
+        "size": 13646,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "水牛角",
+    "latin_name": "Bubali Cornu",
+    "medicinal_part": "角",
+    "taste": "苦，寒",
+    "meridian": "心、肝经",
+    "efficacy": "清热凉血，解毒，定惊",
+    "indication": "温病高热，神昏谵语，惊风，癫狂，血热妄行斑疹、吐衄，痈肿疮疡，咽喉肿痛",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "水牛角.jpg",
+        "extname": "jpg",
+        "url": "/herbs/水牛角.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\水牛角.jpg",
+        "size": 8655,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "槐花",
+    "latin_name": "Sophorae Flos",
+    "medicinal_part": "花及花蕾",
+    "taste": "苦，微寒",
+    "meridian": "肝、大肠经",
+    "efficacy": "凉血止血，清肝泻火",
+    "indication": "便血，痔血，血痢，崩漏，吐血，衄血，肝热目赤，头痛眩晕",
+    "category": "止血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "槐花.jpg",
+        "extname": "jpg",
+        "url": "/herbs/槐花.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\槐花.jpg",
+        "size": 24618,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "桑螵蛸",
+    "latin_name": "Mantidis Ootheca",
+    "medicinal_part": "卵鞘",
+    "taste": "甘、咸，平",
+    "meridian": "肝、肾经",
+    "efficacy": "固精缩尿，补肾助阳",
+    "indication": "遗精滑精，遗尿尿频，小便白浊，阳痿早泄",
+    "category": "固涩药",
+    "views": 0,
+    "images": [
+      {
+        "name": "桑螵蛸.jpg",
+        "extname": "jpg",
+        "url": "/herbs/桑螵蛸.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\桑螵蛸.jpg",
+        "size": 15476,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "桑葚",
+    "latin_name": "Mori Fructus",
+    "medicinal_part": "成熟果穗",
+    "taste": "甘、酸，寒",
+    "meridian": "心、肝、肾经",
+    "efficacy": "滋阴补血，生津润燥",
+    "indication": "肝肾阴虚，眩晕耳鸣，心悸失眠，须发早白，津伤口渴，内热消渴，肠燥便秘",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "桑葚.jpg",
+        "extname": "jpg",
+        "url": "/herbs/桑葚.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\桑葚.jpg",
+        "size": 26310,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "桃仁",
+    "latin_name": "Persicae Semen",
+    "medicinal_part": "成熟种子",
+    "taste": "苦、甘，平",
+    "meridian": "心、肝、大肠经",
+    "efficacy": "活血祛瘀，润肠通便，止咳平喘",
+    "indication": "经闭痛经，癥瘕痞块，肺痈肠痈，跌扑损伤，肠燥便秘，咳嗽气喘",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "桃仁.jpg",
+        "extname": "jpg",
+        "url": "/herbs/桃仁.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\桃仁.jpg",
+        "size": 23436,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "柴胡",
+    "latin_name": "Bupleuri Radix",
+    "medicinal_part": "根",
+    "taste": "辛、苦，微寒",
+    "meridian": "肝、胆、肺经",
+    "efficacy": "疏散退热，疏肝解郁，升举阳气",
+    "indication": "感冒发热，寒热往来，胸胁胀痛，月经不调，子宫脱垂，脱肛",
+    "category": "解表药",
+    "views": 0,
+    "images": [
+      {
+        "name": "柴胡.jpg",
+        "extname": "jpg",
+        "url": "/herbs/柴胡.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\柴胡.jpg",
+        "size": 15055,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "柏子仁",
+    "latin_name": "Platycladi Semen",
+    "medicinal_part": "成熟种仁",
+    "taste": "甘，平",
+    "meridian": "心、肾、大肠经",
+    "efficacy": "养心安神，润肠通便，止汗",
+    "indication": "阴血不足，虚烦失眠，心悸怔忡，肠燥便秘，阴虚盗汗",
+    "category": "安神药",
+    "views": 0,
+    "images": [
+      {
+        "name": "柏子仁.jpg",
+        "extname": "jpg",
+        "url": "/herbs/柏子仁.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\柏子仁.jpg",
+        "size": 18967,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "枸杞子",
+    "latin_name": "Lycii Fructus",
+    "medicinal_part": "成熟果实",
+    "taste": "甘，平",
+    "meridian": "肝、肾经",
+    "efficacy": "滋补肝肾，益精明目",
+    "indication": "虚劳精亏，腰膝酸痛，眩晕耳鸣，阳萎遗精，内热消渴，血虚萎黄，目昏不明",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "枸杞子.jpg",
+        "extname": "jpg",
+        "url": "/herbs/枸杞子.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\枸杞子.jpg",
+        "size": 21789,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "枳实",
+    "latin_name": "Aurantii Fructus Immaturus",
+    "medicinal_part": "幼果",
+    "taste": "苦、辛、酸，微寒",
+    "meridian": "脾、胃、大肠经",
+    "efficacy": "破气消积，化痰散痞",
+    "indication": "积滞内停，痞满胀痛，泻痢后重，大便不通，痰滞气阻，胸痹，结胸，脏器下垂",
+    "category": "理气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "枳实.jpg",
+        "extname": "jpg",
+        "url": "/herbs/枳实.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\枳实.jpg",
+        "size": 13869,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "枳壳片",
+    "latin_name": "Aurantii Fructus",
+    "medicinal_part": "未成熟果实（片）",
+    "taste": "苦、辛、酸，微寒",
+    "meridian": "脾、胃、大肠经",
+    "efficacy": "理气宽中，行滞消胀",
+    "indication": "胸胁气滞，胀满疼痛，食积不化，痰饮内停，脏器下垂",
+    "category": "理气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "枳壳片.jpg",
+        "extname": "jpg",
+        "url": "/herbs/枳壳片.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\枳壳片.jpg",
+        "size": 24945,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "枳壳条",
+    "latin_name": "Aurantii Fructus",
+    "medicinal_part": "未成熟果实（条）",
+    "taste": "苦、辛、酸，微寒",
+    "meridian": "脾、胃、大肠经",
+    "efficacy": "理气宽中，行滞消胀",
+    "indication": "胸胁气滞，胀满疼痛，食积不化，痰饮内停，脏器下垂",
+    "category": "理气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "枳壳条.jpg",
+        "extname": "jpg",
+        "url": "/herbs/枳壳条.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\枳壳条.jpg",
+        "size": 22240,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "板蓝根",
+    "latin_name": "Isatidis Radix",
+    "medicinal_part": "根",
+    "taste": "苦，寒",
+    "meridian": "心、胃经",
+    "efficacy": "清热解毒，凉血，利咽",
+    "indication": "温疫时毒，发热咽痛，温毒发斑，痄腮，烂喉丹痧，大头瘟疫，丹毒，痈肿",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "板蓝根.jpg",
+        "extname": "jpg",
+        "url": "/herbs/板蓝根.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\板蓝根.jpg",
+        "size": 22435,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "杜仲",
+    "latin_name": "Eucommiae Cortex",
+    "medicinal_part": "树皮",
+    "taste": "甘，温",
+    "meridian": "肝、肾经",
+    "efficacy": "补肝肾，强筋骨，安胎",
+    "indication": "肝肾不足，腰膝酸痛，筋骨无力，头晕目眩，妊娠漏血，胎动不安",
+    "category": "补阳药",
+    "views": 0,
+    "images": [
+      {
+        "name": "杜仲.jpg",
+        "extname": "jpg",
+        "url": "/herbs/杜仲.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\杜仲.jpg",
+        "size": 30243,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "木香",
+    "latin_name": "Aucklandiae Radix",
+    "medicinal_part": "根",
+    "taste": "辛、苦，温",
+    "meridian": "脾、胃、大肠、三焦、胆经",
+    "efficacy": "行气止痛，健脾消食",
+    "indication": "胸胁胀痛，脘腹胀痛，嗳吐泄泻，痢疾后重",
+    "category": "理气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "木香.jpg",
+        "extname": "jpg",
+        "url": "/herbs/木香.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\木香.jpg",
+        "size": 15765,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "当归",
+    "latin_name": "Angelicae Sinensis Radix",
+    "medicinal_part": "根",
+    "taste": "甘、辛，温",
+    "meridian": "肝、心、脾经",
+    "efficacy": "补血活血，调经止痛，润肠通便",
+    "indication": "血虚萎黄，眩晕心悸，月经不调，经闭痛经，虚寒腹痛，风湿痹痛，跌扑损伤，痈疽疮疡，肠燥便秘",
+    "category": "补血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "当归.jpg",
+        "extname": "jpg",
+        "url": "/herbs/当归.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\当归.jpg",
+        "size": 70455,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "干姜",
+    "latin_name": "Zingiberis Rhizoma",
+    "medicinal_part": "干燥根茎",
+    "taste": "辛，热",
+    "meridian": "脾、胃、肾、心、肺经",
+    "efficacy": "温中散寒，回阳通脉，温肺化饮",
+    "indication": "脘腹冷痛，呕吐泄泻，肢冷脉微，寒饮喘咳",
+    "category": "温里药",
+    "views": 0,
+    "images": [
+      {
+        "name": "干姜.jpg",
+        "extname": "jpg",
+        "url": "/herbs/干姜.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\干姜.jpg",
+        "size": 6647,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "巴戟天",
+    "latin_name": "Morindae Officinalis Radix",
+    "medicinal_part": "根",
+    "taste": "甘、辛，微温",
+    "meridian": "肾、肝经",
+    "efficacy": "补肾阳，强筋骨，祛风湿",
+    "indication": "阳痿遗精，宫冷不孕，月经不调，少腹冷痛，风湿痹痛，筋骨痿软",
+    "category": "补阳药",
+    "views": 0,
+    "images": [
+      {
+        "name": "巴戟天.jpg",
+        "extname": "jpg",
+        "url": "/herbs/巴戟天.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\巴戟天.jpg",
+        "size": 24413,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "川芎",
+    "latin_name": "Chuanxiong Rhizoma",
+    "medicinal_part": "根茎",
+    "taste": "辛，温",
+    "meridian": "肝、胆、心包经",
+    "efficacy": "活血行气，祛风止痛",
+    "indication": "血瘀气滞，胸痹心痛，胸胁刺痛，跌扑肿痛，月经不调，经闭痛经，癥瘕腹痛，头痛，风湿痹痛",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "川芎.jpg",
+        "extname": "jpg",
+        "url": "/herbs/川芎.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\川芎.jpg",
+        "size": 458542,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "山药",
+    "latin_name": "Dioscoreae Rhizoma",
+    "medicinal_part": "块茎",
+    "taste": "甘，平",
+    "meridian": "脾、肺、肾经",
+    "efficacy": "补脾养胃，生津益肺，补肾涩精",
+    "indication": "脾虚食少，久泻不止，肺虚喘咳，肾虚遗精，带下，尿频，虚热消渴",
+    "category": "补气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "山药.jpg",
+        "extname": "jpg",
+        "url": "/herbs/山药.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\山药.jpg",
+        "size": 15793,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "山茱萸",
+    "latin_name": "Corni Fructus",
+    "medicinal_part": "成熟果肉",
+    "taste": "酸、涩，微温",
+    "meridian": "肝、肾经",
+    "efficacy": "补益肝肾，收涩固脱",
+    "indication": "眩晕耳鸣，腰膝酸痛，阳痿遗精，遗尿尿频，崩漏带下，大汗虚脱，内热消渴",
+    "category": "固涩药",
+    "views": 0,
+    "images": [
+      {
+        "name": "山茱萸.jpg",
+        "extname": "jpg",
+        "url": "/herbs/山茱萸.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\山茱萸.jpg",
+        "size": 22258,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "山楂",
+    "latin_name": "Crataegi Fructus",
+    "medicinal_part": "成熟果实",
+    "taste": "酸、甘，微温",
+    "meridian": "脾、胃、肝经",
+    "efficacy": "消食健胃，活血化瘀，化浊降脂",
+    "indication": "肉食积滞，胃脘胀满，泻痢腹痛，瘀血经闭，产后瘀阻，心腹刺痛，胸痹心痛，疝气疼痛，高脂血症",
+    "category": "消食药",
+    "views": 0,
+    "images": [
+      {
+        "name": "山楂.jpg",
+        "extname": "jpg",
+        "url": "/herbs/山楂.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\山楂.jpg",
+        "size": 19331,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "小茴香",
+    "latin_name": "Foeniculi Fructus",
+    "medicinal_part": "成熟果实",
+    "taste": "辛，温",
+    "meridian": "肝、肾、脾、胃经",
+    "efficacy": "散寒止痛，理气和胃",
+    "indication": "寒疝腹痛，睾丸偏坠，痛经，少腹冷痛，脘腹胀痛，食少吐泻",
+    "category": "温里药",
+    "views": 0,
+    "images": [
+      {
+        "name": "小茴香.jpg",
+        "extname": "jpg",
+        "url": "/herbs/小茴香.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\小茴香.jpg",
+        "size": 14653,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "射干",
+    "latin_name": "Belamcandae Rhizoma",
+    "medicinal_part": "根茎",
+    "taste": "苦，寒",
+    "meridian": "肺经",
+    "efficacy": "解毒利咽，清热化痰，凉血散瘀",
+    "indication": "咽喉肿痛，痰盛咳喘",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "射干.jpg",
+        "extname": "jpg",
+        "url": "/herbs/射干.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\射干.jpg",
+        "size": 12574,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "姜黄",
+    "latin_name": "Curcumae Longae Rhizoma",
+    "medicinal_part": "根茎",
+    "taste": "辛、苦，温",
+    "meridian": "肝、脾经",
+    "efficacy": "破血行气，通经止痛",
+    "indication": "气滞血瘀痛证，风湿痹痛",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "姜黄.jpg",
+        "extname": "jpg",
+        "url": "/herbs/姜黄.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\姜黄.jpg",
+        "size": 11290,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "女贞子",
+    "latin_name": "Ligustri Lucidi Fructus",
+    "medicinal_part": "成熟果实",
+    "taste": "甘、苦，凉",
+    "meridian": "肝、肾经",
+    "efficacy": "滋补肝肾，明目乌发",
+    "indication": "肝肾阴虚，眩晕耳鸣，腰膝酸软，须发早白，目暗不明，内热消渴，骨蒸潮热",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "女贞子.jpg",
+        "extname": "jpg",
+        "url": "/herbs/女贞子.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\女贞子.jpg",
+        "size": 11166,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "天麻片",
+    "latin_name": "Gastrodiae Rhizoma",
+    "medicinal_part": "块茎（片状）",
+    "taste": "甘，平",
+    "meridian": "肝经",
+    "efficacy": "息风止痉，平抑肝阳，祛风通络",
+    "indication": "小儿惊风，癫痫抽搐，破伤风，头痛眩晕，手足不遂，肢体麻木，风湿痹痛",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "天麻片.jpg",
+        "extname": "jpg",
+        "url": "/herbs/天麻片.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\天麻片.jpg",
+        "size": 19216,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "天麻块",
+    "latin_name": "Gastrodiae Rhizoma",
+    "medicinal_part": "块茎（块状）",
+    "taste": "甘，平",
+    "meridian": "肝经",
+    "efficacy": "息风止痉，平抑肝阳，祛风通络",
+    "indication": "小儿惊风，癫痫抽搐，破伤风，头痛眩晕，手足不遂，肢体麻木，风湿痹痛",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "天麻块.jpg",
+        "extname": "jpg",
+        "url": "/herbs/天麻块.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\天麻块.jpg",
+        "size": 17703,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "天葵子",
+    "latin_name": "Semiaquilegiae Radix",
+    "medicinal_part": "块根",
+    "taste": "甘、苦，寒",
+    "meridian": "肝、胃经",
+    "efficacy": "清热解毒，消肿散结",
+    "indication": "痈肿疔疮，乳痈，瘰疬，蛇虫咬伤",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "天葵子.jpg",
+        "extname": "jpg",
+        "url": "/herbs/天葵子.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\天葵子.jpg",
+        "size": 19558,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "天南星",
+    "latin_name": "Arisaematis Rhizoma",
+    "medicinal_part": "块茎",
+    "taste": "苦、辛，温；有毒",
+    "meridian": "肺、肝、脾经",
+    "efficacy": "燥湿化痰，祛风止痉，散结消肿",
+    "indication": "顽痰咳嗽，风痰眩晕，中风痰壅，口眼歪斜，半身不遂，癫痫，惊风，破伤风；外治痈肿，蛇虫咬伤",
+    "category": "化痰止咳平喘药",
+    "views": 0,
+    "images": [
+      {
+        "name": "天南星.jpg",
+        "extname": "jpg",
+        "url": "/herbs/天南星.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\天南星.jpg",
+        "size": 21565,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "天冬",
+    "latin_name": "Asparagi Radix",
+    "medicinal_part": "块根",
+    "taste": "甘、苦，寒",
+    "meridian": "肺、肾经",
+    "efficacy": "养阴润燥，清肺生津",
+    "indication": "肺燥干咳，顿咳痰黏，腰膝酸痛，骨蒸潮热，内热消渴，热病津伤，咽干口渴，肠燥便秘",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "天冬.jpg",
+        "extname": "jpg",
+        "url": "/herbs/天冬.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\天冬.jpg",
+        "size": 15525,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "大青叶",
+    "latin_name": "Isatidis Folium",
+    "medicinal_part": "叶",
+    "taste": "苦，寒",
+    "meridian": "心、胃经",
+    "efficacy": "清热解毒，凉血，利湿",
+    "indication": "温病高热，神昏，发斑发疹，痄腮，喉痹，丹毒，痈肿",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "大青叶.jpg",
+        "extname": "jpg",
+        "url": "/herbs/大青叶.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\大青叶.jpg",
+        "size": 18997,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "大血藤",
+    "latin_name": "Sargentodoxae Caulis",
+    "medicinal_part": "藤茎",
+    "taste": "苦，平",
+    "meridian": "大肠、肝经",
+    "efficacy": "清热解毒，活血，祛风止痛",
+    "indication": "肠痈腹痛，热毒疮疡，经闭，痛经，跌扑肿痛，风湿痹痛",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "大血藤.jpg",
+        "extname": "jpg",
+        "url": "/herbs/大血藤.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\大血藤.jpg",
+        "size": 30828,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "大腹皮",
+    "latin_name": "Arecae Pericarpium",
+    "medicinal_part": "果皮",
+    "taste": "辛，微温",
+    "meridian": "脾、胃、大肠、小肠经",
+    "efficacy": "行气宽中，行水消肿",
+    "indication": "湿阻气滞，脘腹胀闷，大便不爽，水肿胀满，脚气浮肿，小便不利",
+    "category": "理气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "大腹皮.jpg",
+        "extname": "jpg",
+        "url": "/herbs/大腹皮.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\大腹皮.jpg",
+        "size": 17865,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "夏枯草",
+    "latin_name": "Prunellae Spica",
+    "medicinal_part": "果穗",
+    "taste": "辛、苦，寒",
+    "meridian": "肝、胆经",
+    "efficacy": "清肝泻火，明目，散结消肿",
+    "indication": "目赤肿痛，目珠夜痛，头痛眩晕，瘰疬，瘿瘤，乳痈，乳癖，乳房胀痛",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "夏枯草.jpg",
+        "extname": "jpg",
+        "url": "/herbs/夏枯草.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\夏枯草.jpg",
+        "size": 16313,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "墨旱莲",
+    "latin_name": "Ecliptae Herba",
+    "medicinal_part": "地上部分",
+    "taste": "甘、酸，寒",
+    "meridian": "肾、肝经",
+    "efficacy": "滋补肝肾，凉血止血",
+    "indication": "肝肾阴虚，牙齿松动，须发早白，眩晕耳鸣，腰膝酸软，阴虚血热吐血，衄血，尿血，血痢，崩漏下血，外伤出血",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "墨旱莲.jpg",
+        "extname": "jpg",
+        "url": "/herbs/墨旱莲.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\墨旱莲.jpg",
+        "size": 22801,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "地龙",
+    "latin_name": "Pheretima",
+    "medicinal_part": "干燥体",
+    "taste": "咸，寒",
+    "meridian": "肝、脾、膀胱经",
+    "efficacy": "清热定惊，通络，平喘，利尿",
+    "indication": "高热神昏，惊痫抽搐，关节痹痛，肢体麻木，半身不遂，肺热喘咳，水肿尿少",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "地龙.jpg",
+        "extname": "jpg",
+        "url": "/herbs/地龙.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\地龙.jpg",
+        "size": 25179,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "地骨皮",
+    "latin_name": "Lycii Cortex",
+    "medicinal_part": "根皮",
+    "taste": "甘，寒",
+    "meridian": "肺、肝、肾经",
+    "efficacy": "凉血除蒸，清肺降火",
+    "indication": "阴虚潮热，骨蒸盗汗，肺热咳嗽，咯血，衄血，内热消渴",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "地骨皮.jpg",
+        "extname": "jpg",
+        "url": "/herbs/地骨皮.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\地骨皮.jpg",
+        "size": 8567,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "地榆",
+    "latin_name": "Sanguisorbae Radix",
+    "medicinal_part": "根",
+    "taste": "酸、苦、涩，微寒",
+    "meridian": "肝、大肠经",
+    "efficacy": "凉血止血，解毒敛疮",
+    "indication": "水火烫伤，痈肿疮毒，血热出血证",
+    "category": "止血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "地榆.jpg",
+        "extname": "jpg",
+        "url": "/herbs/地榆.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\地榆.jpg",
+        "size": 30330,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "土鳖虫",
+    "latin_name": "Eupolyphaga Steleophaga",
+    "medicinal_part": "雌虫干燥体",
+    "taste": "咸，寒；有小毒",
+    "meridian": "肝经",
+    "efficacy": "破血逐瘀，续筋接骨",
+    "indication": "跌打损伤，筋伤骨折，血瘀经闭，产后瘀阻腹痛，癥瘕痞块",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "土鳖虫.jpg",
+        "extname": "jpg",
+        "url": "/herbs/土鳖虫.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\土鳖虫.jpg",
+        "size": 35195,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "合欢皮",
+    "latin_name": "Albiziae Cortex",
+    "medicinal_part": "树皮",
+    "taste": "甘，平",
+    "meridian": "心、肝、肺经",
+    "efficacy": "解郁安神，活血消肿",
+    "indication": "情志不遂，忧郁失眠，肺痈，疮肿，跌扑伤痛",
+    "category": "安神药",
+    "views": 0,
+    "images": [
+      {
+        "name": "合欢皮.jpg",
+        "extname": "jpg",
+        "url": "/herbs/合欢皮.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\合欢皮.jpg",
+        "size": 20177,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "厚朴",
+    "latin_name": "Magnoliae Officinalis Cortex",
+    "medicinal_part": "干皮、根皮及枝皮",
+    "taste": "苦、辛，温",
+    "meridian": "脾、胃、肺、大肠经",
+    "efficacy": "燥湿消痰，下气除满",
+    "indication": "湿滞伤中，脘痞吐泻，食积气滞，腹胀便秘，痰饮喘咳",
+    "category": "化湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "厚朴.jpg",
+        "extname": "jpg",
+        "url": "/herbs/厚朴.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\厚朴.jpg",
+        "size": 23394,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "半夏",
+    "latin_name": "Pinelliae Rhizoma",
+    "medicinal_part": "块茎",
+    "taste": "辛，温；有毒",
+    "meridian": "脾、胃、肺经",
+    "efficacy": "燥湿化痰，降逆止呕，消痞散结",
+    "indication": "湿痰寒痰，咳喘痰多，痰饮眩悸，风痰眩晕，痰厥头痛，呕吐反胃，胸脘痞闷，梅核气；外治痈肿痰核",
+    "category": "化痰止咳平喘药",
+    "views": 0,
+    "images": [
+      {
+        "name": "半夏.jpg",
+        "extname": "jpg",
+        "url": "/herbs/半夏.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\半夏.jpg",
+        "size": 16735,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "升麻",
+    "latin_name": "Cimicifugae Rhizoma",
+    "medicinal_part": "根茎",
+    "taste": "辛、甘，微寒",
+    "meridian": "肺、脾、胃、大肠经",
+    "efficacy": "发表透疹，清热解毒，升举阳气",
+    "indication": "风热感冒，发热头痛，麻疹不透，齿痛，口疮，咽喉肿痛，阳毒发斑，气虚下陷，脱肛，子宫脱垂，胃下垂",
+    "category": "解表药",
+    "views": 0,
+    "images": [
+      {
+        "name": "升麻.jpg",
+        "extname": "jpg",
+        "url": "/herbs/升麻.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\升麻.jpg",
+        "size": 17804,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "北沙参条",
+    "latin_name": "Glehniae Radix",
+    "medicinal_part": "根（条状）",
+    "taste": "甘、微苦，微寒",
+    "meridian": "肺、胃经",
+    "efficacy": "养阴清肺，益胃生津",
+    "indication": "肺热燥咳，劳嗽痰血，胃阴不足，热病津伤，咽干口渴",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "北沙参条.jpg",
+        "extname": "jpg",
+        "url": "/herbs/北沙参条.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\北沙参条.jpg",
+        "size": 21312,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "北沙参块",
+    "latin_name": "Glehniae Radix",
+    "medicinal_part": "根（块状）",
+    "taste": "甘、微苦，微寒",
+    "meridian": "肺、胃经",
+    "efficacy": "养阴清肺，益胃生津",
+    "indication": "肺热燥咳，劳嗽痰血，胃阴不足，热病津伤，咽干口渴",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "北沙参块.jpg",
+        "extname": "jpg",
+        "url": "/herbs/北沙参块.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\北沙参块.jpg",
+        "size": 22685,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "前胡",
+    "latin_name": "Peucedani Radix",
+    "medicinal_part": "根",
+    "taste": "苦、辛，微寒",
+    "meridian": "肺经",
+    "efficacy": "降气化痰，散风清热",
+    "indication": "痰热喘满，咯痰黄稠，风热咳嗽痰多",
+    "category": "化痰止咳平喘药",
+    "views": 0,
+    "images": [
+      {
+        "name": "前胡.jpg",
+        "extname": "jpg",
+        "url": "/herbs/前胡.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\前胡.jpg",
+        "size": 23397,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "决明子",
+    "latin_name": "Cassiae Semen",
+    "medicinal_part": "成熟种子",
+    "taste": "甘、苦、咸，微寒",
+    "meridian": "肝、大肠经",
+    "efficacy": "清肝明目，润肠通便",
+    "indication": "目赤涩痛，羞明多泪，目暗不明，头痛眩晕，肠燥便秘",
+    "category": "清热药",
+    "views": 0,
+    "images": [
+      {
+        "name": "决明子.jpg",
+        "extname": "jpg",
+        "url": "/herbs/决明子.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\决明子.jpg",
+        "size": 23192,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "全蝎",
+    "latin_name": "Scorpio",
+    "medicinal_part": "干燥体",
+    "taste": "辛，平；有毒",
+    "meridian": "肝经",
+    "efficacy": "息风镇痉，通络止痛，攻毒散结",
+    "indication": "肝风内动，痉挛抽搐，小儿惊风，中风口㖞，半身不遂，破伤风，风湿顽痹，偏正头痛，疮疡，瘰疬",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "全蝎.jpg",
+        "extname": "jpg",
+        "url": "/herbs/全蝎.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\全蝎.jpg",
+        "size": 19908,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "党参",
+    "latin_name": "Codonopsis Radix",
+    "medicinal_part": "根",
+    "taste": "甘，平",
+    "meridian": "脾、肺经",
+    "efficacy": "健脾益肺，养血生津",
+    "indication": "脾肺气虚，食少倦怠，咳嗽虚喘，气血不足，面色萎黄，心悸气短，津伤口渴，内热消渴",
+    "category": "补气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "党参.jpg",
+        "extname": "jpg",
+        "url": "/herbs/党参.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\党参.jpg",
+        "size": 20091,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "僵蚕",
+    "latin_name": "Bombyx Batryticatus",
+    "medicinal_part": "幼虫感染白僵菌的干燥体",
+    "taste": "咸、辛，平",
+    "meridian": "肝、肺、胃经",
+    "efficacy": "祛风定惊，化痰散结",
+    "indication": "惊风抽搐，咽喉肿痛，颌下淋巴结炎，面神经麻痹，皮肤瘙痒",
+    "category": "补阴药",
+    "views": 0,
+    "images": [
+      {
+        "name": "僵蚕.jpg",
+        "extname": "jpg",
+        "url": "/herbs/僵蚕.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\僵蚕.jpg",
+        "size": 11856,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "侧柏叶",
+    "latin_name": "Platycladi Folium",
+    "medicinal_part": "枝梢和叶",
+    "taste": "苦、涩，寒",
+    "meridian": "肺、肝、脾经",
+    "efficacy": "凉血止血，化痰止咳，生发乌发",
+    "indication": "吐血，衄血，咯血，便血，崩漏下血，肺热咳嗽，血热脱发，须发早白",
+    "category": "止血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "侧柏叶.jpg",
+        "extname": "jpg",
+        "url": "/herbs/侧柏叶.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\侧柏叶.jpg",
+        "size": 23094,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "佩兰",
+    "latin_name": "Eupatorii Herba",
+    "medicinal_part": "地上部分",
+    "taste": "辛，平",
+    "meridian": "脾、胃、肺经",
+    "efficacy": "芳香化湿，醒脾开胃，发表解暑",
+    "indication": "湿浊中阻，脘痞呕恶，口中甜腻，口臭，多涎，暑湿表证，湿温初起",
+    "category": "化湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "佩兰.jpg",
+        "extname": "jpg",
+        "url": "/herbs/佩兰.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\佩兰.jpg",
+        "size": 19432,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "佛手",
+    "latin_name": "Citri Sarcodactylis Fructus",
+    "medicinal_part": "果实",
+    "taste": "辛、苦、酸，温",
+    "meridian": "肝、脾、肺经",
+    "efficacy": "疏肝理气，和胃止痛，燥湿化痰",
+    "indication": "肝胃气滞，胸胁胀痛，胃脘痞满，食少呕吐，咳嗽痰多",
+    "category": "理气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "佛手.jpg",
+        "extname": "jpg",
+        "url": "/herbs/佛手.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\佛手.jpg",
+        "size": 14281,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "何首乌",
+    "latin_name": "Polygoni Multiflori Radix",
+    "medicinal_part": "块根",
+    "taste": "苦、甘、涩，微温",
+    "meridian": "肝、心、肾经",
+    "efficacy": "解毒，消痈，截疟，润肠通便",
+    "indication": "疮痈，瘰疬，风疹瘙痒，久疟体虚，肠燥便秘",
+    "category": "补血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "何首乌.jpg",
+        "extname": "jpg",
+        "url": "/herbs/何首乌.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\何首乌.jpg",
+        "size": 15573,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "仙鹤草",
+    "latin_name": "Agrimoniae Herba",
+    "medicinal_part": "地上部分",
+    "taste": "苦、涩，平",
+    "meridian": "心、肝经",
+    "efficacy": "收敛止血，截疟，止痢，解毒，补虚",
+    "indication": "咯血，吐血，崩漏下血，疟疾，血痢，痈肿疮毒，阴痒带下，脱力劳伤",
+    "category": "止血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "仙鹤草.jpg",
+        "extname": "jpg",
+        "url": "/herbs/仙鹤草.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\仙鹤草.jpg",
+        "size": 12392,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "人参切片",
+    "latin_name": "Ginseng Radix et Rhizoma",
+    "medicinal_part": "根和根茎（切片）",
+    "taste": "甘、微苦，微温",
+    "meridian": "脾、肺、心经",
+    "efficacy": "大补元气，复脉固脱，益气摄血",
+    "indication": "体虚欲脱，肢冷脉微，气不摄血，崩漏下血；心力衰竭，心原性休克",
+    "category": "补气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "人参切片.jpg",
+        "extname": "jpg",
+        "url": "/herbs/人参切片.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\人参切片.jpg",
+        "size": 25263,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "人参",
+    "latin_name": "Ginseng Radix et Rhizoma",
+    "medicinal_part": "根和根茎",
+    "taste": "甘、微苦，微温",
+    "meridian": "脾、肺、心经",
+    "efficacy": "大补元气，复脉固脱，益气摄血",
+    "indication": "体虚欲脱，肢冷脉微，气不摄血，崩漏下血；心力衰竭，心原性休克",
+    "category": "补气药",
+    "views": 0,
+    "images": [
+      {
+        "name": "人参.jpg",
+        "extname": "jpg",
+        "url": "/herbs/人参.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\人参.jpg",
+        "size": 8345,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "五灵脂",
+    "latin_name": "Trogopterori Faeces",
+    "medicinal_part": "粪便",
+    "taste": "苦、咸、甘，温",
+    "meridian": "肝经",
+    "efficacy": "活血止痛，化瘀止血",
+    "indication": "瘀血阻滞诸痛证，出血证属瘀血内阻血不循经者",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "五灵脂.jpg",
+        "extname": "jpg",
+        "url": "/herbs/五灵脂.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\五灵脂.jpg",
+        "size": 19439,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "五味子",
+    "latin_name": "Schisandrae Chinensis Fructus",
+    "medicinal_part": "成熟果实",
+    "taste": "酸、甘，温",
+    "meridian": "肺、心、肾经",
+    "efficacy": "收敛固涩，益气生津，补肾宁心",
+    "indication": "久咳虚喘，梦遗滑精，遗尿尿频，久泻不止，自汗盗汗，津伤口渴，内热消渴，心悸失眠",
+    "category": "固涩药",
+    "views": 0,
+    "images": [
+      {
+        "name": "五味子.jpg",
+        "extname": "jpg",
+        "url": "/herbs/五味子.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\五味子.jpg",
+        "size": 19447,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "五加皮",
+    "latin_name": "Acanthopanacis Cortex",
+    "medicinal_part": "根皮",
+    "taste": "辛、苦，温",
+    "meridian": "肝、肾经",
+    "efficacy": "祛风湿，补肝肾，强筋骨，利水",
+    "indication": "风湿痹病，筋骨痿软，小儿行迟，体虚乏力，水肿，脚气",
+    "category": "祛风湿药",
+    "views": 0,
+    "images": [
+      {
+        "name": "五加皮.jpg",
+        "extname": "jpg",
+        "url": "/herbs/五加皮.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\五加皮.jpg",
+        "size": 17323,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "乌梅",
+    "latin_name": "Mume Fructus",
+    "medicinal_part": "近成熟果实",
+    "taste": "酸、涩，平",
+    "meridian": "肝、脾、肺、大肠经",
+    "efficacy": "敛肺，涩肠，生津，安蛔",
+    "indication": "肺虚久咳，久泻久痢，虚热消渴，蛔厥呕吐腹痛",
+    "category": "固涩药",
+    "views": 0,
+    "images": [
+      {
+        "name": "乌梅.jpg",
+        "extname": "jpg",
+        "url": "/herbs/乌梅.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\乌梅.jpg",
+        "size": 24392,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "丹参",
+    "latin_name": "Salviae Miltiorrhizae Radix et Rhizoma",
+    "medicinal_part": "根和根茎",
+    "taste": "苦，微寒",
+    "meridian": "心、肝经",
+    "efficacy": "活血祛瘀，通经止痛，清心除烦，凉血消痈",
+    "indication": "胸痹心痛，脘腹胁痛，癥瘕积聚，热痹疼痛，心烦不眠，月经不调，痛经经闭，疮疡肿痛",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "丹参.jpg",
+        "extname": "jpg",
+        "url": "/herbs/丹参.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\丹参.jpg",
+        "size": 10188,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  },
+  {
+    "name": "三七",
+    "latin_name": "Notoginseng Radix et Rhizoma",
+    "medicinal_part": "根和根茎",
+    "taste": "甘、微苦，温",
+    "meridian": "肝、胃经",
+    "efficacy": "散瘀止血，消肿定痛",
+    "indication": "咯血，吐血，衄血，便血，崩漏，外伤出血，胸腹刺痛，跌扑肿痛",
+    "category": "活血药",
+    "views": 0,
+    "images": [
+      {
+        "name": "三七.jpg",
+        "extname": "jpg",
+        "url": "/herbs/三七.jpg",
+        "path": "c:\\Users\\黄文达\\Desktop\\app\\中草药百科与识别后台\\herbs\\三七.jpg",
+        "size": 18451,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "create_date": null
+  }
+]
