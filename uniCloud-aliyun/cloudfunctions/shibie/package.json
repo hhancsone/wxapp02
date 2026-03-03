@@ -1,0 +1,7 @@
+{
+  "name": "shibie",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
