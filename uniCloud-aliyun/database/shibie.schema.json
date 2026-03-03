@@ -1,0 +1,44 @@
+// 文档教程: https://uniapp.dcloud.net.cn/uniCloud/schema
+{
+	"bsonType": "object",
+	"required": ["herb_name", "confidence", "identify_time", "user_id"],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": true
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"herb_name": {
+			"bsonType": "string",
+			"description": "药材名称"
+		},
+		"confidence": {
+			"bsonType": "number",
+			"description": "匹配度"
+		},
+		"identify_time": {
+			"bsonType": "timestamp",
+			"description": "识别时间"
+		},
+		"user_id": {
+			"bsonType": "string",
+			"description": "识别用户ID"
+		},
+		"user_nickname": {
+			"bsonType": "string",
+			"description": "识别用户昵称"
+		},
+		"image_url": {
+			"bsonType": "string",
+			"description": "识别图片URL"
+		},
+		"latin_name": {
+			"bsonType": "string",
+			"description": "药材拉丁名"
+		}
+	}
+}
