@@ -1,0 +1,15 @@
+{
+	"name": "import-yaocai",
+	"version": "1.0.0",
+	"description": "导入药材数据",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"xlsx": "^0.18.5"
+	},
+	"triggers": []
+}
