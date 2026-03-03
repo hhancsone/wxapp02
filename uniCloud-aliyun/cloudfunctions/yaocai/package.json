@@ -1,0 +1,7 @@
+{
+  "name": "yaocai",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
