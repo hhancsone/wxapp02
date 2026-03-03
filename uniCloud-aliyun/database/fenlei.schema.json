@@ -1,0 +1,1 @@
+{"bsonType":"object","required":["name"],"permission":{"read":true,"create":true,"update":true,"delete":true},"properties":{"_id":{"description":"ID，系统自动生成"},"name":{"bsonType":"string","label":"分类名称","description":"药材分类名称"},"description":{"bsonType":"string","label":"分类描述","description":"分类描述信息"},"sort":{"bsonType":"int","label":"排序","description":"分类排序权重"}}}
